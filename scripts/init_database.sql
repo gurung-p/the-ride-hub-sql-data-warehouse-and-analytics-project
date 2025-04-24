@@ -29,7 +29,7 @@ CREATE DATABASE DataWarehouse;
 
 USE DataWarehouse;
 
--- Create Schemas
+-- Create Schemas for the 'DataWarehouse' database
 CREATE SCHEMA bronze;
 GO
 	
