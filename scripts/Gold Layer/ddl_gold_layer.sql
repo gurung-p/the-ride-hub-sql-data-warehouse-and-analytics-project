@@ -1,6 +1,10 @@
 -- ===================================================
  -- Create dimension table: gold.dim_customers
 -- ===================================================
+
+IF OBJECT_ID('gold.dim_customers', 'V') IS NOT NULL
+DROP VIEW gold.dim_customers;
+
 CREATE VIEW gold.dim_customers AS
 SELECT 
     ROW_NUMBER() OVER (ORDER BY cst_id) AS customer_key,
@@ -27,6 +31,9 @@ SELECT
 -- Create dimension table: gold.dim_products
 -- ===================================================
 
+IF OBJECT_ID('gold.dim_products', 'V') IS NOT NULL
+DROP VIEW gold.dim_products;
+
 CREATE VIEW gold.dim_products AS
 SELECT
     ROW_NUMBER() OVER (ORDER BY pn.prd_start_dt, pn.prd_key) AS product_key,
@@ -48,7 +55,10 @@ WHERE prd_end_dt IS NULL -- Filter out historic data
 -- ===================================================
 -- Create fact table: gold.fact_sales
 -- ===================================================
-   
+
+IF OBJECT_ID('gold.fact_sales', 'V') IS NOT NULL
+DROP VIEW gold.fact_sales;
+
 CREATE VIEW gold.fact_sales AS
 SELECT
     sd.sls_ord_num     AS order_number,
