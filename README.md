@@ -2,7 +2,7 @@
 This project showcases a complete data warehousing and analytics solution, from constructing a data warehouse to deriving actionable insights. As a portfolio project, it emphasizes industry best practices in data engineering and analytics, transforming raw data into valuable insights that support informed, data-driven decisions.
 
 ## Project Requirements
-### Building the Data Warehouse (Data Engineering)
+### Build Data Warehouse (Data Engineering)
 
 #### Objective
 Build a modern data warehouse with SQL Server to bring sales data together, making analytics and smarter decision-making easier.
