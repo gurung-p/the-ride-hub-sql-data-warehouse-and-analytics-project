@@ -19,11 +19,15 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
+Use SQL-driven analytics to uncover valuable insights into:
 - **Sales Trends**
+- **Product Performance**
+- **Customer Behavior**
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+These insights provide stakeholders the key business metrics they need to make smart, strategic decisions.  
+
+---
+
+
 
 
