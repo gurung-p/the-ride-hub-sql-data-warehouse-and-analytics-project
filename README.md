@@ -5,7 +5,7 @@ This project showcases a complete data warehousing and analytics solution, from 
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+Build a modern data warehouse with SQL Server to bring sales data together, making analytics and smarter decision-making easier.
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
