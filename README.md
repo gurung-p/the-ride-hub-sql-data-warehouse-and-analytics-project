@@ -16,7 +16,7 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### Business Intelligence: Analytics & Reporting (Data Analysis)
 
 #### Objective
 Use SQL-driven analytics to uncover valuable insights into:
