@@ -14,4 +14,8 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 - **Scope**: Focus exclusively on the most recent dataset, historical data storage is not required.
 - **Documentation**: Provide clear documentation of the data model to support business users and analytics teams.
 
+---
+
+
+
 
