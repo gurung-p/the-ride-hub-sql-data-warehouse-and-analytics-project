@@ -8,8 +8,10 @@ This project showcases a complete data warehousing and analytics solution, from 
 Build a modern data warehouse with SQL Server to bring sales data together, making analytics and smarter decision-making easier.
 
 #### Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+- **Data Sources**: Import sales data from ERP and CRM systems, provided in CSV format.
+- **Data Quality**: Perform cleansing and address data quality issues before analysis to ensure accuracy.
+- **Integration**: Merge both datasets into a single, intuitive data model optimized for analytical queries.
+- **Scope**: Focus exclusively on the most recent dataset, historical data storage is not required.
+- **Documentation**: Provide clear documentation of the data model to support business users and analytics teams.
+
+
