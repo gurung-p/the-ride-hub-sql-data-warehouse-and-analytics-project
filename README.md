@@ -19,7 +19,7 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 ### Business Intelligence: Analytics & Reporting (Data Analysis)
 
 #### Objective
-Use SQL-driven analytics to uncover valuable insights into:
+Develop SQL-driven analytics and data visualization using Power BI to uncover valuable insights into:
 - **Sales Trends**
 - **Product Performance**
 - **Customer Behavior**
