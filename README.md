@@ -30,8 +30,6 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 - **Scope**: Focus exclusively on the most recent dataset, historical data storage is not required.
 - **Documentation**: Provide clear documentation of the data model to support business users and analytics teams.
 
----
-
 ### 2. Business Intelligence: Analytics & Reporting (Data Analysis)
 
 Develop SQL-driven analytics and data visualization using Power BI to uncover valuable insights. These insights provide stakeholders the key business metrics they need to make smart, strategic decisions.  
