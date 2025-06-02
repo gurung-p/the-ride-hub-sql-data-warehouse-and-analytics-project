@@ -53,8 +53,10 @@ The data architecture for this project is built on Medallion Architecture, using
 ---
 ## Data Structure & Initial Checks
 
-Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
-INSERT ERD DIAGRAM HERE
+The Ride Hub's database structure consists of three tables: sales, customers and products.
+
+![image alt](images/Entity_Relationship_Diagram.png)
+
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
 
 
