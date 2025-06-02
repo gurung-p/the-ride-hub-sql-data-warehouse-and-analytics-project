@@ -9,7 +9,8 @@ The scope of this project includes:
 1. **Data Architecture**: Setting up a modern data warehouse using Medallion Architecture, organizing data into Bronze, Silver, and Gold layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse for seamless integration.
 3. **Data Modeling**: Developing fact and dimension tables to make analytical queries faster and efficient.
-4. **Analytics & Reporting**: Building SQL-based reports and dashboards that turn raw data into valuable insights.
+4. **Analytics & Reporting**: Building SQL-based reports that turn raw data into valuable insights.
+5. **Analytics Dashboard**: Building an interactive data visualization dashboard to display, track, and analyze key performance indicators (KPIs) and metrics.
 
 ---
 
