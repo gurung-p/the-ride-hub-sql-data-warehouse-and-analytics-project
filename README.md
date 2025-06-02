@@ -55,7 +55,7 @@ The data architecture for this project is built on Medallion Architecture, using
 
 The Ride Hub's database structure consists of three tables: sales, customers and products.
 
-![image alt](images/Entity_Relationship_Diagram.png)
+![image alt]()
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
 
