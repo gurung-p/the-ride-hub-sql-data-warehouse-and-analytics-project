@@ -47,7 +47,7 @@ The data architecture for this project is built on Medallion Architecture, using
 1. **Bronze Layer**: Holds raw data exactly as it comes from source systems. CSV files are loaded into the SQL Server database.
 2. **Silver Layer**: Cleans, standardizes, and normalizes the data to get it ready for analysis.
 3. **Gold Layer**: Stores business-ready data, structured in a star schema for reporting and analytics.
-![image](https://github.com/user-attachments/assets/f6e67f90-22d5-4a12-8230-1bf147bd1f53)
+[image](images/High_Level_Architecture.png)
 
 
 
