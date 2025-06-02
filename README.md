@@ -1,5 +1,7 @@
 # The Ride Hub - Data Warehouse & Analytics Project
 
+## Project Background
+
 Established in 2010, The Ride Hub has been a cornerstone of the cycling community, providing top-quality bicycles, accessories, and clothing to riders of all levels. Whether it’s high-performance bikes, essential accessories, or stylish and functional apparel, the shop prides itself on delivering quality, innovation, and reliability. The business uses different operational systems for Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP). 
 
 In order to create a unified view of the business, provide a single source of truth for reporting and analysis, data will be integrated and organized using data warehouse.
