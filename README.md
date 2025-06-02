@@ -20,9 +20,8 @@ This project showcases a complete data warehousing and analytics solution, from 
 ---
 
 ## Project Requirements
-### Build Data Warehouse (Data Engineering)
+### 1. Build Data Warehouse (Data Engineering)
 
-#### Objective
 Build a modern data warehouse with SQL Server to bring sales data together, making analytics and smarter decision-making easier.
 
 #### Specifications
@@ -34,15 +33,13 @@ Build a modern data warehouse with SQL Server to bring sales data together, maki
 
 ---
 
-### Business Intelligence: Analytics & Reporting (Data Analysis)
+### 2. Business Intelligence: Analytics & Reporting (Data Analysis)
 
-#### Objective
-Develop SQL-driven analytics and data visualization using Power BI to uncover valuable insights into:
+Develop SQL-driven analytics and data visualization using Power BI to uncover valuable insights. These insights provide stakeholders the key business metrics they need to make smart, strategic decisions.  
+
 - **Sales Trends**
 - **Product Performance**
 - **Customer Behavior**
-
-These insights provide stakeholders the key business metrics they need to make smart, strategic decisions.  
 
 ---
 
