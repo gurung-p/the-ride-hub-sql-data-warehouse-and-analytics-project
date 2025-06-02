@@ -48,8 +48,15 @@ The data architecture for this project is built on Medallion Architecture, using
 2. **Silver Layer**: Cleans, standardizes, and normalizes the data to get it ready for analysis.
 3. **Gold Layer**: Stores business-ready data, structured in a star schema for reporting and analytics.
 
-## High Level Architecture
 ![image alt](images/High_Level_Architecture.png)
+
+---
+## Data Structure & Initial Checks
+
+Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+INSERT ERD DIAGRAM HERE
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
+
 
 
 
