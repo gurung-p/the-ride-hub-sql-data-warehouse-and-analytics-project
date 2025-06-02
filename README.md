@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# The Ride Hub - Data Warehouse & Analytics Project
 This project showcases a complete data warehousing and analytics solution, from constructing a data warehouse to deriving actionable insights. As a portfolio project, it emphasizes industry best practices in data engineering and analytics, transforming raw data into valuable insights that support informed, data-driven decisions.
 
 ---
