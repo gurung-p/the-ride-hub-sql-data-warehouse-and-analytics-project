@@ -9,8 +9,7 @@ This project showcases a complete data warehousing and analytics solution, from 
 
 ---
 
-## Project Overview
-The scope of this project includes:
+## Project Objectives
 
 1. **Data Architecture**: Setting up a modern data warehouse using Medallion Architecture, organizing data into Bronze, Silver, and Gold layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse for seamless integration.
