@@ -56,6 +56,8 @@ The Ride Hub's database structure consists of three tables: sales, customers and
 
 ![image alt](images/Entity_Relationship_Diagram.png)
 
+![image alt](images/Data_Flow_Diagram.png)
+
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
 
 
