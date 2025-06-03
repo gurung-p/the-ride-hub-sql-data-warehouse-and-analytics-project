@@ -54,7 +54,7 @@ The data architecture for this project is built on Medallion Architecture, using
 ---
 ## Data Structure & Initial Checks
 
-The Ride Hub's database structure consists of three tables: sales, customers and products. At the business level, the Gold Layer organizes data for effective analysis and reporting, featuring dimension tables and fact tables tailored to specific metrics.
+The Ride Hub's database structure consists of three tables: sales, customers and products. At the business level, the Gold Layer organizes data for effective analysis and reporting, featuring dimension tables that define key business metrics.
 
 ![image alt](images/Entity_Relationship_Diagram.png)
 
