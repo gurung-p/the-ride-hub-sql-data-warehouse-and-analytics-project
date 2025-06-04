@@ -49,12 +49,15 @@ The data architecture for this project is built on Medallion Architecture, using
 
 The SQL queries for creating database called DataWarehouse and schemas for Bronze, Silver and Gold can be found [here](scripts/create_database_and_schemas.sql)
 
+
 ![image alt](images/High_Level_Architecture.png)
+
 
 
 ![image alt](images/Data_Flow_Diagram.png)
 
 ---
+
 ## Data Structure & Initial Checks
 
 The Ride Hub's database structure consists of three tables: **Sales**, **Customers** and **Products**. 
