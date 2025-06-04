@@ -82,7 +82,13 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance**
 - **Customer Behavior**
 
-1. **Sales Trends**:
+## **Sales Trends**
+
+### Sales Trend Over Time
+
+The sales overview dashboard presents a comprehensive look at a company’s performance over several years, focusing on key metrics including total sales, total costs, total profit, and total orders. There is a clear upward trend in sales and profit from 2010 to 2013, indicating strong business growth during that period. A noticeable drop in sales is observed in 2014, compared to the previous years. Business year remains in progress based on sales data availability up to January only. From 2010 to 2014, total sales have shown an upward trend, from $6.2 million in 2010 to $29.02 million in 2014. Profit also increased significantly during this period.
+
+![image alt](images/total_sales_vs_profit_by_year.PNG)
 
 
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
