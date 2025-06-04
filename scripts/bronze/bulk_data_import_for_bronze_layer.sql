@@ -1,8 +1,8 @@
 /*
 ===============================================================================
-Script: Bulk import data for Bronze tables
+Script: Bulk import data for Bronze Layer
 ===============================================================================
-This script bulk imports data from CRM & ERP csv files to Bronze Layer Tables, 
+This script bulk imports data from CRM & ERP csv files to Bronze Layer tables, 
 clearing existing data in the tables if they already exist.
 ===============================================================================
 */
