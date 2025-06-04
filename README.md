@@ -76,6 +76,8 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 This report provides an analysis of customer, product and sales data for The Ride Hub, focusing on key insights regarding customer demographics, sales and product performance including profitability. The analysis highlights significant trends over the years, customer distribution across various regions, and product performance metrics. Visualizations accompany the report to enhance understanding.
 
+The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
+
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trends**
@@ -91,8 +93,7 @@ The sales overview dashboard presents a comprehensive look at a company’s perf
 ![image alt](images/total_sales_vs_profit_by_year.PNG)
 
 
-The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
+### Total Saales by Category
 
-
-
+Sales have been categorized into three main groups: bikes, clothing, and accessories. The majority of sales come from bikes, contributing significantly to the profit margins. The sales for Bikes in 2010 was $6.20 million Bikes and accessories appear to be the leading categories, with the latter experiencing consistent sales. Clothing had very little sales in 2012 but the sales is improving since. The data suggests strong demand for bikes particularly peaking in 2012 accounting for $18.58 million in sales. The Bikes category is dominant in sales, showcasing the need for continued investment in this segment.
 
