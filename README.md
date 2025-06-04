@@ -78,6 +78,11 @@ This report provides an analysis of customer, product and sales data for The Rid
 
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
+An interactive Power BI dashboard can be downloaded here
+
+
+![image alt](images/sales_overview_dashboard.pdf)
+
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trends**
