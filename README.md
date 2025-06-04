@@ -53,7 +53,7 @@ The SQL queries for creating database called **DataWarehouse** and schemas for *
 
 ![image alt](images/Data_Flow_Diagram.png)
 
-- The queries to create tables in the **Bronze Layer** from **CRM & ERP csv** files can be found [here](scripts/bronze/ddl_script_create_tables_in_bronze_layer.sql)
+- The queries to create tables and import data in the **Bronze Layer** from **CRM & ERP csv** files can be found [here](scripts/bronze_layer)
 - The queries to bulk import data from **CRM & ERP csv** files to **Bronze Layer** can be found [here](scripts/bronze/bulk_data_import_for_bronze_layer.sql)
 - 
 
