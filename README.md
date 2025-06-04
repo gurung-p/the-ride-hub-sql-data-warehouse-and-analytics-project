@@ -82,6 +82,9 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance**
 - **Customer Behavior**
 
+1. **Sales Trends**:
+
+
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
 
