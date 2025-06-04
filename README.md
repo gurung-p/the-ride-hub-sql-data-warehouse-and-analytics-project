@@ -53,8 +53,8 @@ The SQL queries for creating database called **DataWarehouse** and schemas for *
 
 ![image alt](images/Data_Flow_Diagram.png)
 
-- The queries to create tables and import data in the **Bronze Layer** from **CRM & ERP csv** files can be found [here](scripts/bronze_layer)
-- The queries to create tables and import data in the **Silver Layer** from **Bronze Layer** can be found can be found [here](scripts/silver_layer)
+- The queries to create tables and import data in the **Bronze Layer** from **CRM & ERP csv** can be found [here](scripts/bronze_layer)
+- The queries to create tables and import data in the **Silver Layer** from **Bronze Layer** can be found [here](scripts/silver_layer)
 - The queries to create dimension and fact view in the **Gold Layer** for **Customer**, **Product** and **Sales** can be found [here](scripts/gold_layer)
 - 
 
