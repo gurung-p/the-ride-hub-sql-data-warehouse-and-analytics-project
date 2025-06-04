@@ -74,6 +74,8 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ## Analytics & Reporting 
 
+This report provides a comprehensive analysis of customer metrics and revenue trends derived from the provided Customer Overview Dashboard. The dashboard offers critical insights into customer demographics, spending habits, and product preferences which can be utilized for strategic decision-making.
+
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
 
