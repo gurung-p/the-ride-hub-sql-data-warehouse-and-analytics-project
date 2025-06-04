@@ -81,7 +81,7 @@ The SQL queries used to create **Reports and Analytics** can be found [here](rep
 An interactive Power BI dashboard can be downloaded here
 
 
-![image alt](images/sales_overview_dashboard.pdf)
+![image alt](images/sales_overview_dashboard.PNG)
 
 Insights and recommendations are provided on the following key areas:
 
