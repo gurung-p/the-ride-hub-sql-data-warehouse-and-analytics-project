@@ -95,5 +95,7 @@ The sales overview dashboard presents a comprehensive look at a company’s perf
 
 ### Total Saales by Category
 
-Sales have been categorized into three main groups: bikes, clothing, and accessories. The majority of sales come from bikes, contributing significantly to the profit margins. The sales for Bikes in 2010 was $6.20 million Bikes and accessories appear to be the leading categories, with the latter experiencing consistent sales. Clothing had very little sales in 2012 but the sales is improving since. The data suggests strong demand for bikes particularly peaking in 2012 accounting for $18.58 million in sales. The Bikes category is dominant in sales, showcasing the need for continued investment in this segment.
+Sales have been categorized into three main groups: bikes, clothing, and accessories. The majority of sales come from bikes, contributing significantly to the profit margins. The sales for bikes in 2010 was $6.20 million. Bikes and accessories appear to be the leading categories, with the latter experiencing consistent sales. Clothing had very little sales in 2012 and the sales appear to be improving slowly. The data suggests strong demand for bikes particularly peaking in 2012 accounting for $18.58 million in sales. The bikes category is dominant in sales, showcasing the need for continued investment in this segment.
+
+![image alt](images/total_sales_by_category.PNG)
 
