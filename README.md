@@ -86,7 +86,7 @@ Insights and recommendations are provided on the following key areas:
 
 ### Sales Trend Over Time
 
-The sales overview dashboard presents a comprehensive look at a company’s performance over several years, focusing on key metrics including total sales, total costs, total profit, and total orders. There is a clear upward trend in sales and profit from 2010 to 2013, indicating strong business growth during that period. A noticeable drop in sales is observed in 2014, as business year remains in progress based on sales data availability up to January only. From 2010 to 2014, total sales have shown an upward trend, from $6.2 million in 2010 to $29.02 million in 2014. Profit also increased significantly during this period.
+The sales overview dashboard presents a comprehensive look at a company’s performance over several years, focusing on key metrics including total sales, total costs, total profit, and total orders. There is a clear upward trend in sales and profit from 2010 to 2013, indicating strong business growth during that period. Total sales have shown an upward trend, from $6.20 million in 2010 to $20.74 million in 2013. Profit also increased significantly during this period from $2.46 million in 2010 to $8.28 million in 2013. A noticeable drop in sales is observed in 2014, as the business year has just begun and in progress. 
 
 ![image alt](images/total_sales_vs_profit_by_year.PNG)
 
