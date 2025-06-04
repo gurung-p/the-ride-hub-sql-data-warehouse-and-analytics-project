@@ -53,6 +53,8 @@ The SQL queries for creating database called DataWarehouse and schemas for Bronz
 
 ![image alt](images/Data_Flow_Diagram.png)
 
+The queries to creates tables in the 'bronze' schemas based of the CRM & ERP csv files can be found [here](scripts/bronze/ddl_bronze_layer_tables.sql)
+
 ---
 
 ## Data Structure & Initial Checks
