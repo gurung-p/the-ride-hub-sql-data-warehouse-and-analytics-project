@@ -74,7 +74,7 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ## Analytics & Reporting 
 
-This report provides an analysis of customer, product and sales data for The Ride Hub focusing on key insights regarding customer demographics, sales and product performance including profitability. The analysis highlights significant trends over the years, customer distribution across various regions, and product performance metrics. Visualizations accompany the report to enhance understanding.
+This report provides an analysis of customer, product and sales data for The Ride Hub, focusing on key insights regarding customer demographics, sales and product performance including profitability. The analysis highlights significant trends over the years, customer distribution across various regions, and product performance metrics. Visualizations accompany the report to enhance understanding.
 
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
