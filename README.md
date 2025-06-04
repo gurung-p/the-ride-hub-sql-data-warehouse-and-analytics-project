@@ -58,7 +58,7 @@ The SQL queries for creating database called **DataWarehouse** and schemas for *
 
 ---
 
-## Data Structure & Initial Checks
+## Data Structure & Data Type
 
 The Ride Hub's database structure consists of three tables: **Sales**, **Customers** and **Products**. 
 
