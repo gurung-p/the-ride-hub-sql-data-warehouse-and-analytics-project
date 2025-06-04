@@ -51,6 +51,7 @@ The SQL queries for creating database called DataWarehouse and schemas for Bronz
 
 ![image alt](images/High_Level_Architecture.png)
 
+
 ![image alt](images/Data_Flow_Diagram.png)
 
 ---
