@@ -71,7 +71,9 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ![image alt](images/Data_Type.PNG)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
+---
+
+## Business Intelligence: Analytics & Reporting (Data Analysis)
 
 
 
