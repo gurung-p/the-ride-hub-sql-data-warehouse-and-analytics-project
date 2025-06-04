@@ -72,7 +72,7 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ---
 
-## Business Intelligence: Analytics & Reporting (Data Analysis)
+## Analytics & Reporting 
 
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
