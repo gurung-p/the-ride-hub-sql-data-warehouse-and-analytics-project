@@ -56,8 +56,8 @@ The SQL queries for creating database called **DataWarehouse** and schemas for *
 - The SQL queries to create tables and import data in the **Bronze Layer** from **CRM & ERP csv** can be found [here](scripts/bronze_layer)
 - The SQL queries to create tables and import data in the **Silver Layer** from **Bronze Layer** can be found [here](scripts/silver_layer)
 - The SQL queries to create dimension and fact view in the **Gold Layer** for **Customers**, **Products** and **Sales** can be found [here](scripts/gold_layer)
-- The SQL queries used for data validation and testing across the layers can be found [here](data_validation_and_testing)
-- The SQL queries used to create reports and analytics can be found [here](reports_and_analytics)
+- The SQL queries used for **Data Validation & Testing** across the layers can be found [here](data_validation_and_testing)
+- The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
   
 ---
 
