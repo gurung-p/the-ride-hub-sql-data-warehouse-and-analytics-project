@@ -47,13 +47,13 @@ The data architecture for this project is built on Medallion Architecture, using
 2. **Silver Layer**: Cleans, standardizes, and normalizes the data to get it ready for analysis.
 3. **Gold Layer**: Stores business-ready data, structured in a star schema for reporting and analytics.
 
-The SQL queries for creating database called DataWarehouse and schemas for Bronze, Silver and Gold can be found [here](scripts/create_database_and_schemas.sql)
+The SQL queries for creating database called **DataWarehouse** and schemas for **Bronze**, **Silver** and **Gold** can be found [here](scripts/create_database_and_schemas.sql)
 
 ![image alt](images/High_Level_Architecture.png)
 
 ![image alt](images/Data_Flow_Diagram.png)
 
-The queries to creates tables in the 'bronze' schemas based of the CRM & ERP csv files can be found [here](scripts/bronze/ddl_bronze_layer_tables.sql)
+The queries to creates tables in the **'Bronze'** schemas from CRM & ERP csv files can be found [here](scripts/bronze/ddl_bronze_layer_tables.sql)
 
 ---
 
