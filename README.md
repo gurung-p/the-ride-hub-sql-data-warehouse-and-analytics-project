@@ -41,7 +41,7 @@ Develop SQL-driven analytics and data visualization using Power BI to uncover va
 
 ## Data Architecture & Data Flow Diagram
 
-The data architecture for this project is built on Medallion Architecture, using Bronze, Silver, and Gold layers:
+The data architecture for this project is built on **Medallion Architecture**, using **Bronze**, **Silver** and **Gold** layers:
 
 1. **Bronze Layer**: Holds raw data exactly as it comes from source systems. CSV files are loaded into the SQL Server database.
 2. **Silver Layer**: Cleans, standardizes, and normalizes the data to get it ready for analysis.
