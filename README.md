@@ -172,5 +172,6 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 Here are the references that contributed to the completion of this project.
 
 - [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning. 
-- [Mo Chen](https://www.youtube.com/@mo-chen)  A Data Analytics Manager / Content Creator who makes videos about how you can stay competitive and ahead of the competition in the data industry.
+- [Baraa Khatib Salkini](https://www.youtube.com/@DataWithBaraa) Baraa has 15+ years in data and analytics, is a Content Creator who creates and shares educational videos related to Data Science, along with real world real-world projects and practical explanations.
+
 
