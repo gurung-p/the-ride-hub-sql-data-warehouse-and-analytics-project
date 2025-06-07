@@ -92,6 +92,7 @@ Insights and recommendations are provided on the following key areas:
 The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
 
 An interactive Power BI dashboard can be downloaded below.
+
 [Sales Dashboard](reports_and_analytics/Sales_Dashboard.pbix)
 [Customer Dashboard](reports_and_analytics/Customer_Dashboard.pbix)
 
