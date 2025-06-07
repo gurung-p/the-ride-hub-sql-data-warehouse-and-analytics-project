@@ -157,3 +157,20 @@ The minor percentage of VIP customers indicates potential for growth in loyalty 
 
 - **Monitoring and Optimization**: Continuous analysis of sales trends, customer feedback, and market conditions would help refine strategies for sustained growth.
 
+---
+
+## Assumptions and Caveats
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+- The collected data is complete and correct.
+- According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
+- Factors outside the dataset, like economic shifts or policy changes, could affect outcomes.
+
+---
+
+## References 
+
+Here are the references that contributed to the completion of this project.
+
+- [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning. 
+- [Mo Chen](https://www.youtube.com/@mo-chen)  A Data Analytics Manager / Content Creator who makes videos about how you can stay competitive and ahead of the competition in the data industry.
+
