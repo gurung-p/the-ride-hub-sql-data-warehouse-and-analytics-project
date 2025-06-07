@@ -139,6 +139,8 @@ The minor percentage of VIP customers indicates potential for growth in loyalty 
 
 ![image alt](images/Customer_Membership_Type.PNG)
 
+---
+
 ## Recommendations
 
 - **Regional Marketing Strategies**: Tailor marketing efforts based on regional sales performance to maximize impact, particularly in high-performing countries. Focus on expanding sales in countries like Germany and France, which show potential for growth.
