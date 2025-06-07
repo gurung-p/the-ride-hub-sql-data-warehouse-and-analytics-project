@@ -93,11 +93,11 @@ The SQL queries used to create **Reports and Analytics** can be found [here](rep
 
 An interactive Power BI dashboard can be downloaded here
 
-![image alt]()
+![image alt](images/Sales_Dashboard.PNG)
 
-![image alt]()
+![image alt](images/Customer_Dashboard.PNG)
 
-
+---
 
 ## **Sales Trends**
 
