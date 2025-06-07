@@ -172,9 +172,11 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 Here are the references that contributed to the completion of this project.
 
 - [DataCamp](https://www.datacamp.com/)
-  DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning.
+
+   DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning.
   
 - [Baraa Khatib Salkini](https://www.youtube.com/@DataWithBaraa)
+
   Baraa has over 15 years of experience in Data and Analytics. He is also a Content Creator who produces and shares educational videos on Data Science. His content includes real-world projects and practical explanations to enhance understanding.
 
 
