@@ -80,7 +80,7 @@ This report provides an in-depth analysis of sales, products and customer data, 
 
 - Total sales reached **$29.4 million** with a profit margin of **$6.8 million**.
 - The majority of customers belong to the **New** membership type (79%).
-- Bikes continues as the highest-selling category, contributing significantly to overall revenue.
+- Bikes continues as the highest-selling category (90%), contributing significantly to overall revenue.
 - The United States represents the largest customer base, accounting for **40.48%** of total sales.
 
 Insights and recommendations are provided on the following key areas:
