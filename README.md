@@ -126,9 +126,7 @@ United States dominates the customer base, which may influence shipping, marketi
 
 ### Customer Demographics
 
-The dataset reveals a total of 18,000 customers ** with a notable average order revenue of **$142K**. The average monthly revenue generated is **$1.9 million**. The gender distribution appears balanced, with 51% male and 49% female.
-The predominant age group of customers falls into the **50 and above** category (73%), with only **26%** between the ages of **40 and 49** and **1%** between the ages of **30 and 39**
-The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
+The dataset reveals a total of 18,000 customers with a notable average order revenue of $142K. The average monthly revenue generated is $1.9 million. The gender distribution appears balanced, with 51% male and 49% female. The predominant age group of customers falls into the 50 and above category (73%), with only 26% between the ages of 40 and 49 and 1% between the ages of 30 and 39. The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
 
 ### Customer Membership Types
 
@@ -137,17 +135,17 @@ The minor percentage of VIP customers indicates potential for growth in loyalty 
 
 ## Recommendations
 
-**Regional Marketing Strategies**: Tailor marketing efforts based on regional sales performance to maximize impact, particularly in high-performing countries. Focus on expanding sales in countries like Germany and France, which show potential for growth.
+- **Regional Marketing Strategies**: Tailor marketing efforts based on regional sales performance to maximize impact, particularly in high-performing countries. Focus on expanding sales in countries like Germany and France, which show potential for growth.
 
-**Strengthening Product Offerings**: Given the high sales of mountain bikes, look into expanding its inventory in this category, potentially introducing new models or offering product customization options or accessories that complement biking experiences could prove lucrative. Consider promotions for Accessories and Clothing to balance the product portfolio.
+- **Strengthening Product Offerings**: Given the high sales of mountain bikes, look into expanding its inventory in this category, potentially introducing new models or offering product customization options or accessories that complement biking experiences could prove lucrative. Consider promotions for Accessories and Clothing to balance the product portfolio.
 
-**Product Diversification**: Invest in product development, especially in Accessories and Clothing categories that show growth potential.
+- **Product Diversification**: Invest in product development, especially in Accessories and Clothing categories that show growth potential.
 
-**Cost Management**: Implement cost control measures to improve profit margins.
+- **Cost Management**: Implement cost control measures to improve profit margins.
 
-**Enhance Customer Retention Initiatives**: The high percentage of new customers highlights the need for customer retention. Focus on converting New and Regular customers to VIP status through loyalty programs.
+- **Enhance Customer Retention Initiatives**: The high percentage of new customers highlights the need for customer retention. Focus on converting New and Regular customers to VIP status through loyalty programs.
 
-**Targeted Marketing**: Given the demographic breakdown, focus marketing efforts toward the 50+ age group with tailored messages that resonate with their interests and lifestyle. Develop targeted marketing campaigns for different age segments, particularly younger customers, to capture market share that has been overlooked.
+- **Targeted Marketing**: Given the demographic breakdown, focus marketing efforts toward the 50+ age group with tailored messages that resonate with their interests and lifestyle. Develop targeted marketing campaigns for different age segments, particularly younger customers, to capture market share that has been overlooked.
 
-**Monitoring and Optimization**: Continuous analysis of sales trends, customer feedback, and market conditions would help refine strategies for sustained growth.
+- **Monitoring and Optimization**: Continuous analysis of sales trends, customer feedback, and market conditions would help refine strategies for sustained growth.
 
