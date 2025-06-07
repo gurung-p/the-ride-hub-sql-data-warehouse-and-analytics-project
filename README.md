@@ -101,18 +101,53 @@ An interactive Power BI dashboard can be downloaded here
 
 ## **Sales Trends**
 
- 
+The dataset reveals an overall positive trend in sales, with total sales reaching **$29.4 million** and profits of **$11.7 million** against costs of **$17.7 million**.
 
-![image alt]()
+### Sales vs. Profit vs. Cost (by Year)
 
+The sales were notably low, $0.1 million in 2010 as the business established end of 2010. 
 
+In 2011, sales were $7.1 million and profits were relatively lower at $2.8 million. By 2013, total sales peaked at 16.3 million, with profits showing a significant increase to $6.8 million. The cost of sales rose alongside sales and profits illustrating the relationship between cost management and profit margins. The cost was $4.3 million in 2011 and %9.6 million in 2013.
 
+$0.1 million sales recorded till date for 2014, business year is in progress.
 
+### Sales by Product 
 
-![image alt]()
+Sales product categories include Bikes, Accessories, and Clothing. 
+
+Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
+The product sales reveal a strong preference for Mountain bikes, indicating potential areas for inventory focus and marketing.
+The product sales reveal a strong preference for Mountain bikes, indicating potential areas for inventory focus and marketing.
 
 ### Sales by Country
 
-- The United States and Australia dominate sales, suggesting these markets are vital for business focus.
-- Other countries contribute less, indicating potential opportunities for market expansion or improved marketing strategies in these regions.
+The United States and Australia are the two leading markets for sales, together comprising a significant portion of total revenues at $9.2 million and $9.1 million respectively. Whereas, sales in noticeably low in European market like Germany $2.9 million and France $2.6 million highlighting potential areas for increased marketing and expansion efforts. 
+United States dominates the customer base, which may influence shipping, marketing, and sales strategies for different regions. The overall data indicates strong sales performance, particularly in the bike category and within the United States.
+
+### Customer Demographics
+
+The dataset reveals a total of 18,000 customers ** with a notable average order revenue of **$142K**. The average monthly revenue generated is **$1.9 million**. The gender distribution appears balanced, with 51% male and 49% female.
+The predominant age group of customers falls into the **50 and above** category (73%), with only **26%** between the ages of **40 and 49** and **1%** between the ages of **30 and 39**
+The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
+
+### Customer Membership Types
+
+The majority of customers are new customers at 79%. The predominant share of new customers suggests a potential opportunity to convert more customers into regular (12%) or VIP members (9%), which can enhance loyalty and increase revenue.
+The minor percentage of VIP customers indicates potential for growth in loyalty programs. This portrays a healthy influx of new customers but also indicates a need for retention strategies. 
+
+## Recommendations
+
+**Regional Marketing Strategies**: Tailor marketing efforts based on regional sales performance to maximize impact, particularly in high-performing countries. Focus on expanding sales in countries like Germany and France, which show potential for growth.
+
+**Strengthening Product Offerings**: Given the high sales of mountain bikes, look into expanding its inventory in this category, potentially introducing new models or offering product customization options or accessories that complement biking experiences could prove lucrative. Consider promotions for Accessories and Clothing to balance the product portfolio.
+
+**Product Diversification**: Invest in product development, especially in Accessories and Clothing categories that show growth potential.
+
+**Cost Management**: Implement cost control measures to improve profit margins.
+
+**Enhance Customer Retention Initiatives**: The high percentage of new customers highlights the need for customer retention. Focus on converting New and Regular customers to VIP status through loyalty programs.
+
+**Targeted Marketing**: Given the demographic breakdown, focus marketing efforts toward the 50+ age group with tailored messages that resonate with their interests and lifestyle. Develop targeted marketing campaigns for different age segments, particularly younger customers, to capture market share that has been overlooked.
+
+**Monitoring and Optimization**: Continuous analysis of sales trends, customer feedback, and market conditions would help refine strategies for sustained growth.
 
