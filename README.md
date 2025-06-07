@@ -115,7 +115,7 @@ $0.1 million sales recorded till date for 2014, business year is in progress.
 
 ### Sales by Product 
 
-Sales product categories include Bikes, Accessories, and Clothing. Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
+Sales categories include Bikes, Accessories, and Clothing. Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
 
 ![image alt](images/Sales_by_Product_Category.PNG)
 
