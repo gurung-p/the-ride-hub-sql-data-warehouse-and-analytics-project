@@ -162,8 +162,8 @@ The minor percentage of VIP customers indicates potential for growth in loyalty 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 - The collected data is complete and correct.
-- According to the dataset, sales data for 2022 is available only until August. Therefore, it has been assumed that the business year remains in progress.
-- Factors outside the dataset, like economic shifts or policy changes, could affect outcomes.
+- According to the dataset, sales data for 2010 is available for December only and sales data for 2014 is available up to January only. Therefore, it has been assumed that the business was established in 2010 and business year remains in progress for 2014.
+- Approximately 3% of the dataset contained missing or blank entries for country, year, and other fields. Additionally, some columns lacked any values. To ensure clarity, the data has been filtered appropriately in the report.
 
 ---
 
