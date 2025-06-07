@@ -111,27 +111,33 @@ In 2011, sales were $7.1 million and profits were relatively lower at $2.8 milli
 
 $0.1 million sales recorded till date for 2014, business year is in progress.
 
+![image alt](images/Sales_vs_Profit_vs_Cost.PNG)
+
 ### Sales by Product 
 
-Sales product categories include Bikes, Accessories, and Clothing. 
+Sales product categories include Bikes, Accessories, and Clothing. Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
 
-Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
-The product sales reveal a strong preference for Mountain bikes, indicating potential areas for inventory focus and marketing.
-The product sales reveal a strong preference for Mountain bikes, indicating potential areas for inventory focus and marketing.
+![image alt](images/Sales_by_Product_Category.PNG)
 
 ### Sales by Country
 
 The United States and Australia are the two leading markets for sales, together comprising a significant portion of total revenues at $9.2 million and $9.1 million respectively. Whereas, sales in noticeably low in European market like Germany $2.9 million and France $2.6 million highlighting potential areas for increased marketing and expansion efforts. 
 United States dominates the customer base, which may influence shipping, marketing, and sales strategies for different regions. The overall data indicates strong sales performance, particularly in the bike category and within the United States.
 
+![image alt](images/Sales_by_Country.PNG)
+
 ### Customer Demographics
 
 The dataset reveals a total of 18,000 customers with a notable average order revenue of $142K. The average monthly revenue generated is $1.9 million. The gender distribution appears balanced, with 51% male and 49% female. The predominant age group of customers falls into the 50 and above category (73%), with only 26% between the ages of 40 and 49 and 1% between the ages of 30 and 39. The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
+
+![image alt](images/Customer_Demographics.PNG)
 
 ### Customer Membership Types
 
 The majority of customers are new customers at 79%. The predominant share of new customers suggests a potential opportunity to convert more customers into regular (12%) or VIP members (9%), which can enhance loyalty and increase revenue.
 The minor percentage of VIP customers indicates potential for growth in loyalty programs. This portrays a healthy influx of new customers but also indicates a need for retention strategies. 
+
+![image alt](images/Customer_Membership_Type.PNG)
 
 ## Recommendations
 
