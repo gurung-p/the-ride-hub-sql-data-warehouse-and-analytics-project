@@ -74,14 +74,14 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ## Analytics & Reporting 
 
-This report provides an analysis of customer, product and sales data for The Ride Hub, focusing on key insights regarding customer demographics, sales and product performance including profitability. The analysis highlights significant trends over the years, customer distribution across various regions, and product performance metrics. Visualizations accompany the report to enhance understanding.
+This report provides an in-depth analysis of sales, products and customer data, focusing on significant trends, insights, and performance metrics over the period from 2010 to 2014. The aggregated findings reveal critical patterns related to sales performance by year, category, and geographic breakdown, alongside customer acquisition trends and product performance. 
 
-The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
+**Key Findings:**
 
-An interactive Power BI dashboard can be downloaded here
-
-
-![image alt](images/sales_overview_dashboard.PNG)
+- Total sales reached **$29.4 million** with a profit margin of **$6.8 million**.
+- The majority of customers belong to the **New** membership type (79%).
+- Bikes continues as the highest-selling category, contributing significantly to overall revenue.
+- The United States represents the largest customer base, accounting for **40.48%** of total sales.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -89,20 +89,27 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance**
 - **Customer Behavior**
 
+The SQL queries used to create **Reports and Analytics** can be found [here](reports_and_analytics)
+
+An interactive Power BI dashboard can be downloaded here
+
+![image alt]()
+
+![image alt]()
+
+
+
 ## **Sales Trends**
 
-### Sales Trend Over Time
+ 
 
-The sales overview dashboard presents a comprehensive look at a company’s performance over several years, focusing on key metrics including total sales, total costs, total profit, and total orders. There is a clear upward trend in sales and profit from 2010 to 2013, indicating strong business growth during that period. Total sales have shown an upward trend, from $6.20 million in 2010 to $20.74 million in 2013. Profit also increased significantly during this period from $2.46 million in 2010 to $8.28 million in 2013. A noticeable drop in sales is observed in 2014, as the business year has just begun and in progress. 
-
-![image alt](images/total_sales_vs_profit_by_year.PNG)
+![image alt]()
 
 
-### Sales by Category
 
-Sales have been categorized into three main groups: bikes, clothing, and accessories. The majority of sales come from bikes, contributing significantly to the profit margins. The sales for bikes in 2010 was $6.20 million. Bikes and accessories appear to be the leading categories, with the latter experiencing consistent sales. Clothing had very little sales in 2012 and the sales appear to be improving slowly. The data suggests strong demand for bikes particularly peaking in 2012 accounting for $18.58 million in sales. The bikes category is dominant in sales, showcasing the need for continued investment in this segment.
 
-![image alt](images/total_sales_by_category.PNG)
+
+![image alt]()
 
 ### Sales by Country
 
