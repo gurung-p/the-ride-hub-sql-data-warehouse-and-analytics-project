@@ -22,7 +22,7 @@ exploration smooth and efficient
 -- b. customer_key
 
 SELECT
-	sd.sls_ord_num,
+    sd.sls_ord_num,
     pr.product_key,
     cu.customer_key,
     sd.sls_order_dt,
