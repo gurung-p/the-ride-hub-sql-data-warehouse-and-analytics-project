@@ -46,25 +46,47 @@ ON sd.sls_cust_id = cu.customer_id
 -- Create FACT view
 
 CREATE VIEW gold.fact_sales AS
+
+with CTE_calc AS(
 SELECT
-	sd.sls_ord_num AS order_number,
+    sd.sls_ord_num AS order_number,
     pr.product_key,
     cu.customer_key,
     sd.sls_order_dt AS order_date,
     sd.sls_ship_dt AS shipping_date,
     sd.sls_due_dt AS due_date,
-    sd.sls_sales AS sales_amount,
+    SUM(sd.sls_sales) AS sales_amount,
     sd.sls_quantity AS quantity,
-    sd.sls_price AS price
+    sd.sls_price AS price,
+    SUM(pr.cost * sd.sls_quantity) as total_product_cost
 FROM silver.crm_sales_details AS sd
 LEFT JOIN gold.dim_products AS pr
 ON sd.sls_prd_key = pr.product_number
 LEFT JOIN gold.dim_customers AS cu
 ON sd.sls_cust_id = cu.customer_id
-
--- POST VIEW CREATION - Check quality
-
-SELECT * FROM gold.fact_sales
+GROUP BY 
+    sd.sls_ord_num,
+    pr.product_key,
+    cu.customer_key,
+    sd.sls_order_dt,
+    sd.sls_ship_dt,
+    sd.sls_due_dt,
+    sd.sls_quantity,
+    sd.sls_price
+)
+SELECT 
+    order_number,
+    product_key,
+    customer_key,
+    order_date,
+    shipping_date,
+    due_date,
+    quantity,
+    price,
+    sales_amount,
+    total_product_cost,
+    sales_amount - total_product_cost as profit
+FROM CTE_calc
 
 -- Check if all DIMENSION tables can join to FACT table
 
