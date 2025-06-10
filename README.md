@@ -72,7 +72,7 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ---
 
-## Analytics & Reporting 
+## Analytics & Reporting (SQL & Power BI)
 
 This report provides an in-depth analysis of sales, products and customer data, focusing on significant trends, insights, and performance metrics over the period from 2010 to 2014. The aggregated findings reveal critical patterns related to sales performance by year, category, and geographic breakdown, alongside customer acquisition trends and product performance. 
 
