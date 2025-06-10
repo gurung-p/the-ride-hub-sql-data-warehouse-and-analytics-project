@@ -49,8 +49,8 @@ The data architecture for this project is built on **Medallion Architecture**, u
 
 The SQL queries for creating database called **DataWarehouse** and schemas for **Bronze**, **Silver** and **Gold** can be found [here](scripts/database_and_schemas/create_database_and_schemas.sql)
 
-         ![image alt](images/High_Level_Architecture.png)
-
+   ![image alt](images/High_Level_Architecture.png)
+         
 ![image alt](images/Data_Flow_Diagram.png)
 
 - The SQL queries to create tables and import data in the **Bronze Layer** from **CRM & ERP csv** can be found [here](scripts/bronze_layer)
