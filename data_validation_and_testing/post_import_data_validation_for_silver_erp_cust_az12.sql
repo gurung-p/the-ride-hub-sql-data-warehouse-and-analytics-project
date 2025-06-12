@@ -15,7 +15,7 @@ Investigate and resolve any discrepancies found during the checks.
 -- Check for birthday in future
 
 SELECT DISTINCT
-	bdate
+bdate
 FROM silver.erp_cust_az12
 WHERE bdate > GETDATE()
 
