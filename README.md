@@ -107,7 +107,7 @@ The dataset reveals an overall positive trend in sales, with total sales reachin
 
 The sales were notably low, **$0.1 million** in 2010 as the business established end of 2010. 
 
-In 2011, sales were **$7.1 million** and profits were relatively lower at **$2.8 million**. By 2013, total sales peaked at **$16.3 million**, with profits showing a significant increase to **$6.8 million**. The cost of sales rose alongside sales and profits illustrating the relationship between cost management and profit margins. The cost was **$4.3 million** in 2011 and **%9.6 million** in 2013.
+In 2011, sales were **$7.1 million** and profits were relatively lower at **$2.8 million**. By 2013, total sales peaked at **$16.3 million**, with profits showing a significant increase to **$6.8 million**. The cost of sales rose alongside sales and profits illustrating the relationship between cost management and profit margins. The cost was **$4.3 million** in 2011 and **$9.6 million** in 2013.
 
 **$0.1 million** sales recorded till date for 2014, business year is in progress.
 
