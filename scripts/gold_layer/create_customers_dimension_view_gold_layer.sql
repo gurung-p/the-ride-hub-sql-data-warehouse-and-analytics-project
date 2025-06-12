@@ -76,8 +76,8 @@ ORDER BY 1, 2
 SELECT DISTINCT
 	ci.cst_gndr,
 	ca.gen,
-CASE WHEN ci.cst_gndr != 'n/a' THEN ci.cst_gndr -- CRM is the master source for gender
-	 ELSE COALESCE(ca.gen, 'n/a')
+	CASE WHEN ci.cst_gndr != 'n/a' THEN ci.cst_gndr -- CRM is the master source for gender
+	ELSE COALESCE(ca.gen, 'n/a')
 END AS NEW_GEN
 FROM silver.crm_cust_info AS ci
 LEFT JOIN silver.erp_cust_az12 AS ca
