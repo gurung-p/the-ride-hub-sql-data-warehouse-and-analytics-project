@@ -15,8 +15,8 @@ Once the data is cleansed, it is imported to silver.erp_loc_a101 table.
 -- Remove hyphen from cid
 
 SELECT 
-	cid,
-	cntry
+cid,
+cntry
 FROM bronze.erp_loc_a101
 
 SELECT cst_key FROM silver.crm_cust_info 
