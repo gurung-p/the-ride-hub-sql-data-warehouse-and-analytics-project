@@ -121,7 +121,7 @@ Sales categories include **Bikes, Accessories, and Clothing**. **Bikes** remain 
 
 ### Sales by Country
 
-The **United States** and **Australia** are the **two leading markets for sales**, together comprising a significant portion of total revenues at **$9.2 million** and **$9.1 million** respectively. Whereas, sales in noticeably low in European market like **Germany $2.9 million** and **France $2.6 million** highlighting potential areas for increased marketing and expansion efforts. 
+The **United States** and **Australia** are the **two leading markets** for sales, together comprising a significant portion of total revenues at **$9.2 million** and **$9.1 million** respectively. Whereas, sales is noticeably **low in European market** like **Germany $2.9 million** and **France $2.6 million** highlighting potential areas for increased marketing and expansion efforts. 
 United States dominates the customer base, which may influence shipping, marketing, and sales strategies for different regions. The overall data indicates strong sales performance, particularly in the bike category and within the United States.
 
 ![image alt](images/Sales_by_Country.PNG)
