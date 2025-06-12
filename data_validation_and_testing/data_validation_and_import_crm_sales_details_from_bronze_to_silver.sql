@@ -47,7 +47,7 @@ SELECT
     	sls_due_dt,
     	sls_sales,
     	sls_quantity,
-   	 sls_price
+   	sls_price
 FROM bronze.crm_sales_details
 WHERE sls_cust_id NOT IN (SELECT cst_id FROM silver.crm_cust_info)
 
