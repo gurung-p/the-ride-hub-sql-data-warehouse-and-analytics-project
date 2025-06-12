@@ -15,7 +15,7 @@ Once the data is cleansed, it is imported to silver.erp_cust_az12 table.
 -- Check for very old customer & birthday in future
 
 SELECT DISTINCT
-	bdate
+bdate
 FROM bronze.erp_cust_az12
 WHERE bdate < '1924-01-01' OR bdate > GETDATE()
 
