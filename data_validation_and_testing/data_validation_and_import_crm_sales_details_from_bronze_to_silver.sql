@@ -15,43 +15,43 @@ Once the data is cleansed, it is imported to silver.crm_sales_details table.
 SELECT 
 	sls_ord_num,
 	sls_prd_key,
-    sls_cust_id,
-    sls_order_dt,
-    sls_ship_dt,
-    sls_due_dt,
-    sls_sales,
-    sls_quantity,
-    sls_price
-  FROM bronze.crm_sales_details
-  WHERE sls_ord_num != TRIM(sls_ord_num)
+    	sls_cust_id,
+    	sls_order_dt,
+   	 sls_ship_dt,
+    	sls_due_dt,
+    	sls_sales,
+    	sls_quantity,
+    	sls_price
+FROM bronze.crm_sales_details
+WHERE sls_ord_num != TRIM(sls_ord_num)
 
-  SELECT 
+SELECT 
 	sls_ord_num,
 	sls_prd_key,
-    sls_cust_id,
-    sls_order_dt,
-    sls_ship_dt,
-    sls_due_dt,
-    sls_sales,
-    sls_quantity,
-    sls_price
-  FROM bronze.crm_sales_details
-  WHERE sls_prd_key NOT IN (SELECT prd_key FROM silver.crm_prd_info)
+    	sls_cust_id,
+    	sls_order_dt,
+    	sls_ship_dt,
+    	sls_due_dt,
+    	sls_sales,
+    	sls_quantity,
+    	sls_price
+FROM bronze.crm_sales_details
+WHERE sls_prd_key NOT IN (SELECT prd_key FROM silver.crm_prd_info)
 
-    SELECT 
+SELECT 
 	sls_ord_num,
 	sls_prd_key,
-    sls_cust_id,
-    sls_order_dt,
-    sls_ship_dt,
-    sls_due_dt,
-    sls_sales,
-    sls_quantity,
-    sls_price
-  FROM bronze.crm_sales_details
-  WHERE sls_cust_id NOT IN (SELECT cst_id FROM silver.crm_cust_info)
+    	sls_cust_id,
+    	sls_order_dt,
+    	sls_ship_dt,
+    	sls_due_dt,
+    	sls_sales,
+    	sls_quantity,
+   	 sls_price
+FROM bronze.crm_sales_details
+WHERE sls_cust_id NOT IN (SELECT cst_id FROM silver.crm_cust_info)
 
-  -- Check for invalid dates
+-- Check for invalid dates
 SELECT
 sls_order_dt
 FROM bronze.crm_sales_details
@@ -144,19 +144,19 @@ ORDER BY sls_sales, sls_quantity, sls_price
 INSERT INTO silver.crm_sales_details (
 	sls_ord_num,
 	sls_prd_key,
-    sls_cust_id,
-    sls_order_dt,
-    sls_ship_dt,
-    sls_due_dt,
-    sls_sales,
-    sls_quantity,
-    sls_price
+    	sls_cust_id,
+    	sls_order_dt,
+    	sls_ship_dt,
+    	sls_due_dt,
+    	sls_sales,
+    	sls_quantity,
+    	sls_price
 )
 
 SELECT 
 	sls_ord_num,
 	sls_prd_key,
-    sls_cust_id,
+   	sls_cust_id,
 CASE
 	WHEN sls_order_dt <= 0 OR LEN(sls_order_dt) != 8 THEN NULL
 	ELSE CAST(CAST(sls_order_dt AS VARCHAR) AS DATE)
@@ -180,7 +180,7 @@ CASE
 	THEN sls_sales / NULLIF(sls_quantity, 0)
 	ELSE sls_price
 END AS sls_price
-  FROM bronze.crm_sales_details
+FROM bronze.crm_sales_details
 
 
 
