@@ -74,14 +74,14 @@ At the business level, the Gold Layer organizes data for effective analysis and 
 
 ## Analytics & Reporting (SQL & Power BI)
 
-This report provides an in-depth analysis of sales, products and customer data, focusing on significant trends, insights, and performance metrics over the period from 2010 to 2014. The aggregated findings reveal critical patterns related to sales performance by year, category, and geographic breakdown, alongside customer acquisition trends and product performance. 
+This report provides an in-depth analysis of sales, products and customer data, focusing on significant trends, insights, and performance metrics over the period from **2010 to 2014**. The aggregated findings reveal critical patterns related to sales performance by year, category, and geographic breakdown, alongside customer acquisition trends and product performance. 
 
 **Key Findings:**
 
-- Total sales reached $29.4 million with a profit margin of $6.8 million.
-- The majority of customers belong to the New membership type (79%).
-- Bikes continues as the highest-selling category (90%), contributing significantly to overall revenue.
-- The United States represents the largest customer base, accounting for 40.48% of total sales.
+- Total sales reached **$29.4 million** with a profit margin of **$6.8 million**.
+- The majority of customers belong to the New membership type **(79%)**.
+- Bikes continues as the highest-selling category **(90%)**, contributing significantly to overall revenue.
+- The United States represents the largest customer base, accounting for **40.48%** of total sales.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -105,36 +105,36 @@ The dataset reveals an overall positive trend in sales, with total sales reachin
 
 ### Sales vs. Profit vs. Cost (by Year)
 
-The sales were notably low, $0.1 million in 2010 as the business established end of 2010. 
+The sales were notably low, **$0.1 million** in 2010 as the business established end of 2010. 
 
-In 2011, sales were $7.1 million and profits were relatively lower at $2.8 million. By 2013, total sales peaked at 16.3 million, with profits showing a significant increase to $6.8 million. The cost of sales rose alongside sales and profits illustrating the relationship between cost management and profit margins. The cost was $4.3 million in 2011 and %9.6 million in 2013.
+In 2011, sales were **$7.1 million** and profits were relatively lower at **$2.8 million**. By 2013, total sales peaked at **16.3 million**, with profits showing a significant increase to **$6.8 million**. The cost of sales rose alongside sales and profits illustrating the relationship between cost management and profit margins. The cost was **$4.3 million** in 2011 and **%9.6 million** in 2013.
 
-$0.1 million sales recorded till date for 2014, business year is in progress.
+**$0.1 million** sales recorded till date for 2014, business year is in progress.
 
 ![image alt](images/Sales_vs_Profit_vs_Cost.PNG)
 
 ### Sales by Product 
 
-Sales categories include Bikes, Accessories, and Clothing. Bikes remain the highest sales contributor in all years, accounting for 90% of the sales at $15.4 million in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
+Sales categories include Bikes, Accessories, and Clothing. Bikes remain the highest sales contributor in all years, accounting for **90%** of the sales at **$15.4 million** in 2013, indicating strong market demand followed by accessories and clothing. Accessories is gradually increasing sales, reflecting an engagement in up-selling and cross-selling strategies. Clothing shows a steady increase and reflects market interest.
 
 ![image alt](images/Sales_by_Product_Category.PNG)
 
 ### Sales by Country
 
-The United States and Australia are the two leading markets for sales, together comprising a significant portion of total revenues at $9.2 million and $9.1 million respectively. Whereas, sales in noticeably low in European market like Germany $2.9 million and France $2.6 million highlighting potential areas for increased marketing and expansion efforts. 
+The United States and Australia are the two leading markets for sales, together comprising a significant portion of total revenues at **$9.2 million** and **$9.1 million** respectively. Whereas, sales in noticeably low in European market like Germany **$2.9 million** and France **$2.6 million** highlighting potential areas for increased marketing and expansion efforts. 
 United States dominates the customer base, which may influence shipping, marketing, and sales strategies for different regions. The overall data indicates strong sales performance, particularly in the bike category and within the United States.
 
 ![image alt](images/Sales_by_Country.PNG)
 
 ### Customer Demographics
 
-The dataset reveals a total of 18,000 customers with a notable average order revenue of $142K. The average monthly revenue generated is $1.9 million. The gender distribution appears balanced, with 51% male and 49% female. The predominant age group of customers falls into the 50 and above category (73%), with only 26% between the ages of 40 and 49 and 1% between the ages of 30 and 39. The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
+The dataset reveals a total of **18,000 customers** with a notable average order revenue of **$142K**. The average monthly revenue generated is **$1.9 million**. The gender distribution appears balanced, with **51% male** and **49% female**. The predominant age group of customers falls into the **50 and above category (73%)**, with only **26% between the ages of 40 and 49** and **1% between the ages of 30 and 39**. The data shows a predominance of older customers, which may influence marketing strategies and product offerings, necessitating a focus on products that resonate with this demographic. This near-even split indicates that marketing strategies should target both genders to maximize outreach. 
 
 ![image alt](images/Customer_Demographics.PNG)
 
 ### Customer Membership Types
 
-The majority of customers are new customers at 79%. The predominant share of new customers suggests a potential opportunity to convert more customers into regular (12%) or VIP members (9%), which can enhance loyalty and increase revenue.
+The majority of customers are **new customers** at **79%**. The predominant share of new customers suggests a potential opportunity to convert more customers into **regular (12%)** or **VIP members (9%)**, which can enhance loyalty and increase revenue.
 The minor percentage of VIP customers indicates potential for growth in loyalty programs. This portrays a healthy influx of new customers but also indicates a need for retention strategies. 
 
 ![image alt](images/Customer_Membership_Type.PNG)
